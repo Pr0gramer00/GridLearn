@@ -1,0 +1,2 @@
+# GridLearn
+Postavljanje grid izgleda
